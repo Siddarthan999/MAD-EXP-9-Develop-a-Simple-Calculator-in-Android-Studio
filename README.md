@@ -10,7 +10,7 @@ Android Studio(Latest Version)
 
 ## ALGORITHM:
 
-Step 1: Open Android Stdio and then click on File -> New -> New project.
+Step 1: Open Android Studio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as calculator and click Next. 
 
